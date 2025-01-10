@@ -146,11 +146,6 @@ EPiServer.Personalization.VisitorGroups.UserProfileCriterionOptions
 
 EPiServer.Shell.ViewComposition.ViewOptions
 
-
-### Telemetry
-
-EPiServer.Telemetry.UI.TelemetryOptions
-
 ### TinyMce
 
 EPiServer.Cms.TinyMce.Core.TinyMceConfiguration
